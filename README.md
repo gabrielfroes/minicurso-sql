@@ -32,3 +32,7 @@ $ docker run -d \
   -v mini-curso-sql-dados:/var/lib/mysql \
   mysql:latest
 ```
+
+## Aula no YouTube
+
+[![Assista o Minicurso de SQL no YouTube](https://img.youtube.com/vi/dpanYy8IrcU/maxresdefault.jpg)](https://youtu.be/dpanYy8IrcU)
